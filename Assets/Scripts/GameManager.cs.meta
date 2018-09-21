@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b7708bbece56a49eba2536f050c6f22f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - exitTrigger1: {instanceID: 0}
+  - exitTrigger2: {instanceID: 0}
+  - gameOverScreen: {instanceID: 0}
+  - levelCompleteScreen: {instanceID: 0}
+  - timeLeftText: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - doorOpen: {instanceID: 0}
+  - timeText: {instanceID: 0}
+  - gameOverSound: {fileID: 8300000, guid: 7a3bc171fbf9d4c81a3c3c0fbf944839, type: 3}
+  - chestSound: {instanceID: 0}
+  - clockSound: {fileID: 8300000, guid: aa3fe94a063fc490fadb94200951fb46, type: 3}
+  - levelMusic: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

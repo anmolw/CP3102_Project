@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: FatGuardAC
+  m_Controller: {fileID: 9100000, guid: a46dfe81b0259450ba0c0ed80757e180, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 0324322fdf19f4d138b5270914262071, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ea573627ad91a4209a9f87fb8f492644, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0b46ae770cf6f40ce97e1d257eec19cc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4c44d6cb419654486a2d96830db82216, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5ae4e8111d2004e7d8e03102eff7f610, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a9196bac1e05e47449d66beb7cced185, type: 2}
